@@ -80,10 +80,10 @@ Com este dashboard é possível:
 ## 📷 Prévia do Dashboard
 
 ### Dashboard Principal
-![dashboard](imagens/dashboard.png)
+![dashboard](screenshots/dashboard.png)
 
 ### Modelo de Dados
-![modelagem](imagens/modelagem.png)
+![modelagem](screenshots/modelagem.png)
 
 ---
 
